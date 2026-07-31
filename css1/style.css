@@ -16,7 +16,6 @@ body{
     padding-top:40px;
 }
 
-/* LOGO */
 
 .logo{
     position:absolute;
@@ -30,7 +29,7 @@ body{
     display:block;
 }
 
-/* COMPANY NAME */
+
 
 .company-name{
     position:absolute;
@@ -48,8 +47,6 @@ body{
     font-size:32px;
 }
 
-/* PROFILE BOX */
-
 .profile-box{
     width:75%;
     height:850px; 
@@ -63,8 +60,6 @@ body{
 
     position:relative;
 }
-
-/* TEXT */
 
 .text-content{
     position:absolute;
@@ -94,7 +89,6 @@ body{
     margin-top:10px;
 }
 
-/* CIRCLE IMAGE */
 
 .circle-img{
     position:absolute;
@@ -115,7 +109,6 @@ body{
     object-fit:cover;
 }
 
-/* MOBILE */
 
 @media(max-width:768px){
 
@@ -181,7 +174,7 @@ body{
 }
     
     
-    /* FOOTER */
+    
 .footer{
     background:#0b1622;
     color:#fff;
@@ -256,7 +249,7 @@ body{
     font-size:15px;
 }
 
-/* Responsive */
+
 @media (max-width:768px){
     .footer{
         padding:40px 20px;
